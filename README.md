@@ -11,7 +11,7 @@ This project leverages Tableau to analyze credit card fraud trends and identify 
 - Helps identify which age groups and income brackets are more susceptible to fraud.
 - Allows dynamic filtering for in-depth analysis.
 
-### 2. **Geospatial Mapping & Heatmaps of Fraud Distribution** 🗺️
+### 2. **Geospatial Mapping & Heatmaps of Error Distribution** 🗺️
 - Visualizes fraud occurrences across U.S. states using a heatmap.
 - Highlights regions with higher fraud activity for targeted investigation.
 - Helps financial institutions implement region-specific fraud prevention strategies.
